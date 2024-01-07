@@ -8,8 +8,8 @@ nav a:not(.active):hover {
     opacity: .5;
 }
 
-a:visited {
-    color: inherit;
+a {
+    color: inherit !important;
 }
 
 nav a.active {
